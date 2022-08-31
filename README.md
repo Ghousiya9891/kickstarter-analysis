@@ -61,3 +61,5 @@ The below graph visualizes percentage of succesful, failure and canceled outcome
 - What are some other possible tables and/or graphs that we could create?
     1. Graphs to determine the outcomes of theatre/plays with respect to country
     2. Statiscal Data distribution of Goal amounts other categories and subcategories to compare and interpret the analysis in more effective way.
+    
+The kickstarter challenge data analysis is completely captured in the sheet [Kickstarter_Challenge](https://github.com/Ghousiya9891/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx/)
