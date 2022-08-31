@@ -20,8 +20,10 @@ By implementing the analysis techniques provided by Excel following inferences a
 To determine the outcomes based on the Launch date the number of successful, failed and canceled outcomes are visualized by grouping based months of the year. The following graph is plotted by using Pivot table to determine total number of successful, failed and canceled outcomes based on Launch date and filtering the group funding data with Parent Category as *Theatre* and years of campaign launch.
 
 The below graph visualizes the total number of successful, failed and canceled outcomes plotted against the each month. 
--From the below graph it is clearly interpreted that maximum number of successful kickstarter outcomes are seen in *June and May months*. 
--There is consistent increase in the success rate from March to June months.
+
+From the below graph it is clearly interpreted that maximum number of successful kickstarter outcomes are seen in *June and May months*. 
+
+There is consistent increase in the success rate from March to June months.
 
 ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
@@ -32,8 +34,10 @@ To determine the outcomes based on the Goals we need to analyze the percentage o
 To dertermine Percentage of successful and failure campaigns data from Total number of projects which includes successful, failure and canceled campaigns for specific range of goal amount
 
 The below graph visualizes percentage of succesful, failure and canceled outcomes plotted in reference to the range of goal amount.
--It is interpreted that there is maximun success percentage when the *goal amount is less than $5000*
--A steep decline in the success rate and Total number of campaign projects is noted when the goal amount exceeds 5000$
+
+It is interpreted that there is maximun success percentage when the *goal amount is less than $5000*
+
+A steep decline in the success rate and Total number of campaign projects is noted when the goal amount exceeds 5000$
 
 ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
