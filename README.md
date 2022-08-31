@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-**Lousie** and upcoming playwright wants to fund her play **FEVER** by using crowdfunding campaign. She estmates a budget of $10000 and is primarily focussed in US and Great Britain market campaign funding for plays based on the launch date. As a data analyst by using powerfull tool *Excel* a deep dive of crowd funding data analysis and visualization is provided to Lousie to determine the specific parameters that would help her in raising fund to her startup drama production.
+**Lousie** an upcoming playwright wants to fund her play **FEVER** by using crowdfunding campaign. She estmates a budget of $10000 and is primarily focussed in US and Great Britain market campaign funding for plays based on the launch date. As a data analyst by using powerfull tool *Excel* a deep dive of crowd funding data analysis and visualization is provided to Lousie to determine the specific parameters that would help her in raising fund to her startup drama production.
 
 ### Purpose
 
